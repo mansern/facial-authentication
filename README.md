@@ -2,7 +2,7 @@
 
 A simple repository developed in Reactjs and Vite to demonstrate how to implement Facial Authentication using FaceIO. FaceIO is an easy to implement, secure, and adaptable Passwordless Authentication & Authorization framework for web applications powered by Face Recognition.
 
-# What is Facial Recognition
+# What is Facial Recognition?
 
 Facial recognition is one of the latest authentication techniques, and many developers are adopting it these days. Facial recognition reduces the hassle of entering your email-password or any other user credentials to log in to a web application.
 
