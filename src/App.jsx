@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   let faceio;
   useEffect(() => {
-    faceio = new faceIO("fioa4ca8");
+    faceio = new faceIO("fioa5as3"); // dummy Public ID, use your own
   }, []);
 
   const handleRegister = async () => {
